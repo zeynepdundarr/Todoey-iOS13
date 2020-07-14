@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Todoey
+//  TestCoreData
 //
-//  Created by Philipp Muellauer on 02/12/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by Zeynep on 24.06.2020.
+//  Copyright © 2020 Zeynep. All rights reserved.
 //
 
 import UIKit
